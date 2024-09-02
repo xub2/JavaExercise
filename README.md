@@ -1,2 +1,2 @@
-# JavaExercise
-# JavaExercise
+# 자바를 공부하는 나의 공간
+
